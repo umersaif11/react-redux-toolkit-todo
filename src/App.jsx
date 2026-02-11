@@ -8,7 +8,7 @@ import Todos from './components/Todos'
 function App() {
   return (
     <>
-      <h1>Learn About Redux Toolkit</h1>
+      <h1 className='text-4xl text-violet-600'>Learn About Redux Toolkit</h1>
       <AddTodo/>
       <Todos/>
     </>
